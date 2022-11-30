@@ -8,7 +8,7 @@ if (number > 0)
         {
             Console.WriteLine("Будний день.");
         }
-        else if (number > 5)
+        else
         {
             Console.WriteLine("Выходной день.");
         }
